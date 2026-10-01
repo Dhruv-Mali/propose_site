@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/",
+      "destination": "/richa-proposal.html"
+    }
+  ]
+}
